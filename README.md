@@ -27,5 +27,5 @@ Place the [`OS_Shutdown.lua`](./OS_Shutdown.lua) file into mpv’s `scripts` fol
 ## Keybinds
 These can be customized via config.
 
-`Ctrl+ì` - Set the number of files to shutdown after  
+`Ctrl+ì` - Set the number of files to shutdown after (or disable shutdown with any non-numeric entry)  
 `Ctrl+^` - Show info on remaining files  
