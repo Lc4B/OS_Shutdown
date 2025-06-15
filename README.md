@@ -22,7 +22,7 @@ The shutdown can be triggered either:
 * keybinds to interactively set file count and check remaining
 
 ## Usage
-Place the [`OS_Shutdown.lua`](./shutdown_after_nfiles.lua) file into mpv’s `scripts` folder and the [`OS_Shutdown.conf`](./script-opts/shutdown_after_nfiles.conf) file into the `script-opts` folder.
+Place the [`OS_Shutdown.lua`](./OS_Shutdown.lua) file into mpv’s `scripts` folder and the [`OS_Shutdown.conf`](./OS_Shutdown.conf) file into the `script-opts` folder.
 
 ## Keybinds
 These can be customized via config.
